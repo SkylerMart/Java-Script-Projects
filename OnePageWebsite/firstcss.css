@@ -1,0 +1,42 @@
+html {
+    background-color: black;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    width: 900px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 3cm;
+    margin-right: 3cm;
+    text-shadow: 2px 2px 3px rgba(224, 221, 18, 1);
+    color: red;
+    padding: 30px;
+    border: white solid;
+    border-radius: 7pt;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    width: 900px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 3cm;
+    margin-right: 3cm;
+    border: ridge rgb(206, 195, 94);
+    background-color: black;
+    color: white;
+    padding: 30px;
+    padding-left: 185px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-shadow: 2px 2px 2px 0 (0,0,0,0.3);
+    padding: 20px 50px 20px 50px;
+    text-align: right;
+    padding-top: 600px;
+
+}
